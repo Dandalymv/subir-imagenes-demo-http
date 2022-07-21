@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el cascaron inicial para crear aplicaciones usando Webpack.
+Ejemplo subir imágenes a Cloudinary por medio de petición Http.
 
 ### Notas:
 
